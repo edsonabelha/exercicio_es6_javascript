@@ -1,2 +1,6 @@
 # exercicio_es6_javascript
 Exercício do Curso de Javascript ES6...
+
+Lista de Exercicios do Curso Starter de ECMASCRIPT ES6.
+
+Exercicios Resolvidos...
